@@ -1,11 +1,21 @@
 # FintechAIRevolution
 A public resources for usecases, references for builders of generative AI in Fintech
 
+## Latest news and Developments (week of April 10)
+* Autogpt is a prototype framework that now runs GPT-4 running fully autonomously. It can browse the web, has short and long term memory, can write and fix code, set tasks, access popular platforms and even speak. Use with caution, but this is on the way to creating AI businesses processes (or whole businesses!) that run themselves. \[[Link](https://twitter.com/SigGravitas/status/1642181498278408193)\]
+* Babyagi is an open-source program that generates and executes task lists based on a given task, currently trending on Github. A more advanced version, "Toddleragi," is also under development \[[Link](https://github.com/yoheinakajima/babyagi)\]. Helpful tip on running it locally \[[Link](https://twitter.com/yoheinakajima/status/1643403795895058434)\]. People are already working on a “toddleragi” lol \[[Link](https://twitter.com/gogoliansnake/status/1643225698801164288?s=20)\]
+* AI-driven financial models are emerging, with potential implications for the job market in the finance sector. \[[Link](https://twitter.com/ryankishore_/status/1641553735032741891?s=20)\]
+*HuggingGPT demonstrates the integration of ChatGPT with other models on Hugging Face, using multiple models to complete a range of tasks. \[[Link](https://twitter.com/_akhaliq/status/1641609192619294721?s=20)\]
+* Future KYC? Worldcoin launched a proof of personhood sdk, a way to verify someone is a human on the internet. \[[Link](https://worldcoin.org/blog/engineering/humanness-in-the-age-of-ai)\]
+* Langchain enables website data scraping and querying, offering a promising solution for developers. \[[Link](https://twitter.com/LangChainAI/status/1641868558484508673?s=20)\]
+* Text to shareable web apps. Build literally anything using AI. Type in “a chatbot” and see what happens. This is a glimpse of the future of building \[[Link](https://twitter.com/rus/status/1641908582814830592?s=20)\]
+* Bloomberg released their own LLM specifically for finance \[[Link](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)\] This thread breaks down how it works \[[Link](https://twitter.com/rasbt/status/1642880757566676992)\]
+* Zapier has integrated Claude by Anthropic, combining no-code solutions with AI advancements. \[[Link](https://twitter.com/zapier/status/1641858761567641601?s=20)\]
+* Microsoft creates their own JARVIS with the same name \[[Link](https://github.com/microsoft/JARVIS/)\].
+
+## Generic Use Cases
 This page is still a stub, while we gather like minded contributors and a plan for filling out this repository. 
-
-In the meantime here are a few of the more obivious examples. But nore interesting examples and resources still to come. 
-
-## General Use Cases
+In the meantime here are a few of the more obivious examples. Help me expand this repository with more interesting and unexpected examples. 
 
 ### Fraud Detection and Prevention: 
 Generative AI can help identify and prevent fraudulent activities by analyzing patterns and behaviors in transactional data. It can be used to detect anomalies and identify fraudulent transactions in real-time.
@@ -37,6 +47,7 @@ Generative AI can be used to develop automated trading systems that can analyze 
 ### Payment Optimization: 
 Generative AI can be used to optimize payment processing by identifying inefficiencies in the payment process, reducing processing times, and improving cost-effectiveness.
 
+## Stub: AI/LLM for cleaning up and finding meaning in open banking and open finance data
 ## Stub: Generative AI and Data Privacy
 ## Stub: Top AI models and references
 ## Stub: Getting started ith custom models and refining 
