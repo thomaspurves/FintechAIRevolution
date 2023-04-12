@@ -47,9 +47,13 @@ Generative AI can be used to develop automated trading systems that can analyze 
 ### Payment Optimization: 
 Generative AI can be used to optimize payment processing by identifying inefficiencies in the payment process, reducing processing times, and improving cost-effectiveness.
 
+## People to follow
+* [AI + Fintech Twitter list](https://twitter.com/i/lists/1645936321389817857)
+* [Chat GPT subreddit](https://www.reddit.com/r/ChatGPT/)
+* [Rachel Woods on tiktok](https://www.tiktok.com/discover/Rachel-Woods?lang=en)
+
 ## Stub: AI/LLM for cleaning up and finding meaning in open banking and open finance data
 ## Stub: Generative AI and Data Privacy
 ## Stub: Top AI models and references
 ## Stub: Getting started ith custom models and refining 
-## Stub: people to follow
 ## Stub: links and references
