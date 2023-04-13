@@ -13,6 +13,26 @@ A public resources for usecases, references for builders of generative AI in Fin
 * Zapier has integrated Claude by Anthropic, combining no-code solutions with AI advancements. \[[Link](https://twitter.com/zapier/status/1641858761567641601?s=20)\]
 * Microsoft creates their own JARVIS with the same name \[[Link](https://github.com/microsoft/JARVIS/)\].
 
+## Strategic Implications of Generative AI in Fintech
+
+### For Incumbents
+Positive Disruption and advantages:
+* Existing reach, channels and brand trust for distributing AI solutions. Winning customer trust being the major leverageable factor here in winning adoption. 
+* Improved risk assessment and underwriting with AI-generated predictive models and data analysis.
+* Enhanced customer experiences through personalized insurance products, pricing, and claims processing
+* Streamlined operations and reduced costs with AI-driven automation of tasks like claims processing, policy administration, and fraud detection.
+* Enhanced decision-making and advisory services through AI-generated insights and predictive analytics
+* Opportunity to scale and automate lower marging professional service-driven functions like wealth management, advisory, accounting 
+* Huge opportunities in recapturing and sharing institutional knowledge, in mitigating communication and beuracratic overheads across large multi-departmental organizations
+
+Negative Disruption:
+* Increased competition from insurtech startups leveraging AI-driven solution
+* Job role disruptions and challenges with internal change managment
+* May move to slow to introduce new AI-driven value proposition and face increased competition from new entrants and startups
+* Infrastructure players (from cloud vendors to SaaS suppliers) may rent-seek or capture outsized share of new value created by AI.
+* Risk, regulatory uncertainties and compliance challenges may block or slow adoption from incumbents more so than new entrants/startups
+* Traditional service-driven sectors like wealth management, accounting  struggle to compete with low-cost, AI-driven robo-advisors, pressuring fees and profit margin
+
 ## Generic Use Cases
 This page is still a stub, while we gather like minded contributors and a plan for filling out this repository. 
 In the meantime here are a few of the more obivious examples. Help me expand this repository with more interesting and unexpected examples. 
