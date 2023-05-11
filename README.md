@@ -1,7 +1,13 @@
 # FintechAIRevolution
 A public resources for usecases, references for builders of generative AI in Fintech
 
-## Latest news and Developments (week of April 10)
+## Latest news and Developments 
+
+### (May 2023 
+* (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)[Google's leaked Memo] provides a fantast bacgrounder on opensource AI, active projects and recent progress
+* (https://www.mosaicml.com/blog/mpt-7b)[Mosaic ML Commercial Open Source LLM] and the announcement blog post itself provides a fantastic primer on working with open source ML models.
+
+### (April 2023)
 * Autogpt is a prototype framework that now runs GPT-4 running fully autonomously. It can browse the web, has short and long term memory, can write and fix code, set tasks, access popular platforms and even speak. Use with caution, but this is on the way to creating AI businesses processes (or whole businesses!) that run themselves. \[[Link](https://twitter.com/SigGravitas/status/1642181498278408193)\]
 * Babyagi is an open-source program that generates and executes task lists based on a given task, currently trending on Github. A more advanced version, "Toddleragi," is also under development \[[Link](https://github.com/yoheinakajima/babyagi)\]. Helpful tip on running it locally \[[Link](https://twitter.com/yoheinakajima/status/1643403795895058434)\]. People are already working on a “toddleragi” lol \[[Link](https://twitter.com/gogoliansnake/status/1643225698801164288?s=20)\]
 * AI-driven financial models are emerging, with potential implications for the job market in the finance sector. \[[Link](https://twitter.com/ryankishore_/status/1641553735032741891?s=20)\]
