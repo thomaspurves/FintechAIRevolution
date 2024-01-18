@@ -1,7 +1,14 @@
 # Applied AI for Fintech
 A public resources for usecases, references for builders of generative AI in Fintech
 
-## Aside - Strategic Implications of Generative AI in Fintech
+
+## Suggested AI Learning courses for PMs
+
+* Pendio : [AI for Product Management Course](https://www.pendo.io/ai-for-product-management-course/)
+* Product School: [Being an AI Product Manager](https://productschool.com/blog/future-of-tech/ai-product-manager)
+* Udacity: [AI Product Manager](https://www.udacity.com/course/ai-product-manager-nanodegree--nd088)
+
+## Strategic Implications of Generative AI in Fintech
 
 ### For Incumbents
 Positive Disruption and advantages:
